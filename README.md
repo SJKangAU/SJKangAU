@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sung (Jason) Kang        @SJKangAU
+- 👀 I’m interested in learning coding in all sorts of languages and becoming an expert!
+- 🌱 I’m currently learning Python, React and Java
+- 💞️ I’m looking to collaborate on any project 
+- 📫 You can reach me at SJ.Kang@outlook.com.au
